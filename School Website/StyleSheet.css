@@ -1,0 +1,21 @@
+a:link, a:visited  {
+  color: #ffffff;
+}
+
+body {
+ background-image: url("https://static.vecteezy.com/system/resources/thumbnails/000/151/563/small/random-numbers-matrix-background.jpg");
+  color: #ffffff;
+  font-size : 20px;
+  margin : 20px 30px; 
+}
+
+h1 {
+  border-bottom: 3px double #ffffff;
+  text-align: center;
+}
+
+.one{
+  text-align: right;
+  font-weight: bold;
+  font-size : 20px;
+}
